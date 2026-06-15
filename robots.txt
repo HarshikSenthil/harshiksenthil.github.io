@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://harshiksenthil.github.io/myclipblog/sitemap.xml
